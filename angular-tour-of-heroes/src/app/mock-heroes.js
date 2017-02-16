@@ -1,3 +1,4 @@
+//This file has a mock array of heroes which is formatted based on hero.ts file Hero class object
 "use strict";
 exports.HEROES = [
     { id: 11, name: 'Mr. Nice' },

@@ -1,3 +1,5 @@
+//This file has a mock array of heroes which is formatted based on hero.ts file Hero class object
+
 import {Hero} from './hero';
 
 export const HEROES: Hero[] = [
